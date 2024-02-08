@@ -1,6 +1,3 @@
-
-
-
 # Learn Data Engineering with Python
 
 <a href="https://www.packtpub.com/product/data-engineering-with-python/9781839214189?utm_source=github&utm_medium=repository&utm_campaign=9781839214189"><img src="https://static.packt-cdn.com/products/9781839214189/cover/smaller" alt="Learn Amazon SageMaker" height="256px" align="right"></a>
